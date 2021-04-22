@@ -145,6 +145,7 @@ class comparteVehiculo{
 
 int main()
 { 
+    // COMENTARIO GENERICO PARA COMITEAR 
     
    //Primera lista 
    //Se crean las solicitudes 
