@@ -145,8 +145,7 @@ class comparteVehiculo{
 
 int main()
 { 
-    //COMIT QUE VA A SER ELIMINADO DE FORMA HARD 
-    // COMENTARIO GENERICO PARA COMITEAR 
+    //Se Han quitado los dos comentarios 
     
    //Primera lista 
    //Se crean las solicitudes 
