@@ -145,10 +145,6 @@ class comparteVehiculo{
 
 int main()
 { 
-    //Se Han quitado los dos comentarios 
-    
-   //Primera lista 
-   //Se crean las solicitudes 
    solicitud s1("Puebla", "CDMX", "Juan");
    solicitud s2("Oaxaca", "CDMX", "Pedro");
    solicitud s3("Chiapas", "CDMX", "ELGIO");
