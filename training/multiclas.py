@@ -44,7 +44,8 @@ class smarthphone(Telefono, Camara, Calculadora):
         Calculadora.__init__(self)
 
     def __repr__(self):
-        return f'{Telefono.__repr__(self)} {Camara.__repr__(self)} {Calculadora.__repr__(self)}'
+        ##return f'{Telefono.__repr__(self)} {Camara.__repr__(self)} {Calculadora.__repr__(self)}'
+        return f'{Telefono.__repr__(self)}'
     def __del_(self):
         print('Telefono apagado')
 
